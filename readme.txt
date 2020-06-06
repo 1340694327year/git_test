@@ -4,3 +4,4 @@ this is test Git file.
 this is vision 2.0.
 this is master branch.
 Create a new branch is slow
+this is merge test file.
